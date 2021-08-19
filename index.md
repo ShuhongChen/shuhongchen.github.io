@@ -13,7 +13,7 @@ I like anime; my favorite is [Nichijou (2011)](https://myanimelist.net/anime/101
 This site is incomplete; for more shu, please see the [full cv](./assets/documents/cv_shuhong_chen.pdf).
 
 
-## research
+# research
 
 <div>
 <img src='./assets/img/banner_chika_requiem.png' class='image-banner'>
@@ -48,7 +48,7 @@ This site is incomplete; for more shu, please see the [full cv](./assets/documen
 <b class=darktext>Deep rendering</b>.  I firmly believe [graphics is the future of computer vision](./philosophy#graphics-is-the-future-of-computer-vision).  As such, I'm also interested in new 3d representations and rendering techniques, whether it be novel ways of solving the [rendering equation](https://www.semanticscholar.org/paper/Neural-Radiosity-Hadadan-Chen/94261c7cb0d991f4137f55783f76b1f67810366e) or the [implicit stuff](https://www.semanticscholar.org/paper/NeRF%3A-Representing-Scenes-as-Neural-Radiance-Fields-Mildenhall-Srinivasan/428b663772dba998f5dc6a24488fff1858a0899f) everyone's so hyped about.
 
 
-## publications
+# publications
 
 This list includes only 1st/2nd-authorships; full list on [google scholar](https://scholar.google.com/citations?hl=en&user=TcGJKGwAAAAJ&view_op=list_works&sortby=pubdate)
 
@@ -137,7 +137,7 @@ This list includes only 1st/2nd-authorships; full list on [google scholar](https
 
 
 
-## experience
+# experience
 
 <style>
 .pad_xp {
@@ -201,7 +201,7 @@ This list includes only 1st/2nd-authorships; full list on [google scholar](https
 
 
 
-## education
+# education
 
 Special thanks to [Prof. Matthew Stone](https://people.cs.rutgers.edu/~mdstone/) and [Prof. Iian Smythe](https://sites.google.com/site/iiansmythe/) for their invaluable guidance and mentorship.
 
@@ -249,7 +249,7 @@ Special thanks to [Prof. Matthew Stone](https://people.cs.rutgers.edu/~mdstone/)
 
 
 
-## awards
+# awards
 
 - 2021 Honorable Mention, NSF GRFP (graduate)
 - 2019 Honorable Mention, NSF GRFP (undergrad)
