@@ -1,0 +1,14 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+_notes.txt
+_unused
+**.sublime-workspace
+index_*.md
+
+reviews.md
+
+
