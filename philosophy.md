@@ -1,6 +1,7 @@
 ---
 layout: home
 show_home: True
+title: philosophy
 ---
 
 ## about
