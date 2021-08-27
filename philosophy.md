@@ -4,7 +4,7 @@ show_home: True
 title: philosophy
 ---
 
-## about
+# research philosophy
 
 I think rants should be short; short rants are hard.\
 Possibly more rants to come...
