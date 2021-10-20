@@ -37,7 +37,7 @@ The best full list is on [google scholar](https://scholar.google.com/citations?h
             M Zwicker
             <br>
         </i>
-        WACV 2022 (to appear)
+        WACV 2022
         <br>
         [<a href='https://arxiv.org/abs/2108.01819'>arxiv</a>]
         [<a href='https://www.semanticscholar.org/paper/Transfer-Learning-for-Pose-Estimation-of-Characters-Chen-Zwicker/b6cf0b44134a91f70dfb8db500d48fd9bde6150d'>ss</a>]
