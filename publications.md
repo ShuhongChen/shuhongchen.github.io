@@ -26,6 +26,29 @@ The best full list is on [google scholar](https://scholar.google.com/citations?h
 <tbody>
 <tr>
     <td>
+        <img src='./assets/img/proj_eisai.png' class='thumbnail-bigger'>
+    </td>
+    <td class=pad_pubs>
+        <label class=darktext>
+            Improving the Perceptual Quality of 2D Animation Interpolation<br>
+        </label>
+        <i>
+            <b>S Chen</b>,
+            M Zwicker
+            <br>
+        </i>
+        under review
+        <br>
+        [<a href='https://arxiv.org/abs/2111.12792'>arxiv</a>]
+        [<a href='https://www.semanticscholar.org/paper/Improving-the-Perceptual-Quality-of-2D-Animation-Chen-Zwicker/1711a5355f0a96d9217b086dcd12b15945eade0e'>ss</a>]
+        <!-- [code, data] -->
+        <!-- [<a href='https://shuhongchen.github.io/eisai-anime-interpolator/'>web</a>] -->
+        [<a href='https://github.com/ShuhongChen/eisai-anime-interpolator/'>code</a>]
+        [website]
+    </td>
+</tr>
+<tr>
+    <td>
         <img src='./assets/img/proj_bizarre.png' class='thumbnail-bigger'>
     </td>
     <td class=pad_pubs>
@@ -41,10 +64,10 @@ The best full list is on [google scholar](https://scholar.google.com/citations?h
         <br>
         [<a href='https://arxiv.org/abs/2108.01819'>arxiv</a>]
         [<a href='https://www.semanticscholar.org/paper/Transfer-Learning-for-Pose-Estimation-of-Characters-Chen-Zwicker/b6cf0b44134a91f70dfb8db500d48fd9bde6150d'>ss</a>]
-        [web]
-        [code, data]
+        <!-- [code, data] -->
         <!-- [<a href='https://shuhongchen.github.io/bizarre-pose-estimator/'>web</a>] -->
-        <!-- [<a href='https://github.com/ShuhongChen/bizarre-pose-estimator/'>code, data</a>] -->
+        [<a href='https://github.com/ShuhongChen/bizarre-pose-estimator/'>code, data</a>]
+        [website]
         <small>[<a href='https://www.pixiv.net/en/artworks/67179030'>sauce</a>]</small>
         <!-- <small>[<a href='https://danbooru.donmai.us/posts/3014412'>sauce</a>]</small> -->
     </td>
@@ -67,8 +90,8 @@ The best full list is on [google scholar](https://scholar.google.com/citations?h
         <br>
         [<a href='https://arxiv.org/abs/2105.12319'>arxiv</a>]
         [<a href='https://www.semanticscholar.org/paper/Neural-Radiosity-Hadadan-Chen/94261c7cb0d991f4137f55783f76b1f67810366e'>ss</a>]
-        [web]
         [code]
+        [website]
     </td>
 </tr>
 <tr>
