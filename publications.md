@@ -90,6 +90,7 @@ The best full list is on [google scholar](https://scholar.google.com/citations?h
         <br>
         [<a href='https://arxiv.org/abs/2105.12319'>arxiv</a>]
         [<a href='https://www.semanticscholar.org/paper/Neural-Radiosity-Hadadan-Chen/94261c7cb0d991f4137f55783f76b1f67810366e'>ss</a>]
+        [<a href='https://dl.acm.org/doi/10.1145/3478513.3480569'>acm</a>]
         [code]
         [website]
     </td>
@@ -114,6 +115,7 @@ The best full list is on [google scholar](https://scholar.google.com/citations?h
         <br>
         [<a href='https://arxiv.org/abs/1709.05440'>arxiv</a>]
         [<a href='https://www.semanticscholar.org/paper/Process-Oriented-Iterative-Multiple-Alignment-for-Chen-Yang/8bf6a42d6ec4d76152f87438e1caaa4d5344148b'>ss</a>]
+        [<a href='https://ieeexplore.ieee.org/document/8215695'>ieee</a>]
     </td>
 </tr>
 </tbody>
