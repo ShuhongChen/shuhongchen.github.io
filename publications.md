@@ -41,10 +41,7 @@ The best full list is on [google scholar](https://scholar.google.com/citations?h
         <br>
         [<a href='https://arxiv.org/abs/2111.12792'>arxiv</a>]
         [<a href='https://www.semanticscholar.org/paper/Improving-the-Perceptual-Quality-of-2D-Animation-Chen-Zwicker/1711a5355f0a96d9217b086dcd12b15945eade0e'>ss</a>]
-        <!-- [code, data] -->
-        <!-- [<a href='https://shuhongchen.github.io/eisai-anime-interpolator/'>web</a>] -->
         [<a href='https://github.com/ShuhongChen/eisai-anime-interpolator/'>code</a>]
-        [website]
     </td>
 </tr>
 <tr>
@@ -64,10 +61,9 @@ The best full list is on [google scholar](https://scholar.google.com/citations?h
         <br>
         [<a href='https://arxiv.org/abs/2108.01819'>arxiv</a>]
         [<a href='https://www.semanticscholar.org/paper/Transfer-Learning-for-Pose-Estimation-of-Characters-Chen-Zwicker/b6cf0b44134a91f70dfb8db500d48fd9bde6150d'>ss</a>]
-        <!-- [code, data] -->
-        <!-- [<a href='https://shuhongchen.github.io/bizarre-pose-estimator/'>web</a>] -->
-        [<a href='https://github.com/ShuhongChen/bizarre-pose-estimator/'>code, data</a>]
-        [website]
+        [<a href='https://github.com/ShuhongChen/bizarre-pose-estimator/'>code</a>]
+        [<a href='https://www.youtube.com/watch?v=hOSjbRwfJrs'>video</a>]
+        [<a href='https://github.com/ShuhongChen/bizarre-pose-estimator/blob/main/wacv2022_poster.pdf'>poster</a>]
         <small>[<a href='https://www.pixiv.net/en/artworks/67179030'>sauce</a>]</small>
         <!-- <small>[<a href='https://danbooru.donmai.us/posts/3014412'>sauce</a>]</small> -->
     </td>
@@ -91,8 +87,8 @@ The best full list is on [google scholar](https://scholar.google.com/citations?h
         [<a href='https://arxiv.org/abs/2105.12319'>arxiv</a>]
         [<a href='https://www.semanticscholar.org/paper/Neural-Radiosity-Hadadan-Chen/94261c7cb0d991f4137f55783f76b1f67810366e'>ss</a>]
         [<a href='https://dl.acm.org/doi/10.1145/3478513.3480569'>acm</a>]
+        [<a href='http://www.cs.umd.edu/~saeedhd/#portfolio/neural_radiosity'>web</a>]
         [code]
-        [website]
     </td>
 </tr>
 <tr>
