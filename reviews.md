@@ -80,7 +80,9 @@ Please note that your favorite anime was excluded from this list in order to per
             When you turned shiki, you became exempt from god's judgement; but you kept your faith in god.
         </label>
         <!-- <br> -->
-        I used to look down on moral arguments; they seemed terribly inconsistent as a basis for justifying behavior.  Here's the funny thing though: "justification for behavior should be consistent" is a moral argument.  I eventually just accepted that people simply act on their own values.  Quite straightforward when you say it out loud, but it's hard to find good works that express this concept well; aside from shiki, I haven't seen any anime that nails it. <!-- <br>* -->
+        <!-- I used to look down on moral arguments; they seemed terribly inconsistent as a basis for justifying behavior.  Here's the funny thing though: "justification for behavior should be consistent" is a moral argument.  I eventually just accepted that people simply act on their own values.  Quite straightforward when you say it out loud, but it's hard to find good works that express this concept well; aside from shiki, I haven't seen any anime that nails it. -->
+        I've lived a very privileged life; I know this because I've come to appreciate reality as it is.  Shiki strongly resonates with my understanding of reality, in particular human nature.  Though the story doesn't always promise a candid representation of its society, it is very comprehensive for such a large cast.  Even with fairly limited screentime, each character is able to showcase a unique and interesting aspect of ourselves.  The culmination of each individual's fears and motivations into such a thrilling tragic narrative makes Shiki one of my favorite stories of all time.  Also vampires are cool.
+        <!-- <br>* -->
     </td>
 </tr>
 <tr>
@@ -122,7 +124,9 @@ Please note that your favorite anime was excluded from this list in order to per
             I was in love with the girl who was missing something; that pitiful girl, grieving at her lack.
         </label>
         <!-- <br> -->
-        Honestly, I don't know why I like hsl.  It's engaging and well-produced, but this doesn't make it special.  Unlike the other 10/10s there's no thesis that really satisfies me, yet I'm still compelled to put it high on my list.  This has been on my mind for years, but I still can't figure it out; maybe there's just something wrong with me.  I wanted to write something more meaningful, but for now all I can say is that it's a good story about finding utter completeness. <!-- <br>* -->
+        <!-- Honestly, I don't know why I like hsl.  It's engaging and well-produced, but this doesn't make it special.  Unlike the other 10/10s there's no thesis that really satisfies me, yet I'm still compelled to put it high on my list.  This has been on my mind for years, but I still can't figure it out; maybe there's just something wrong with me.  I wanted to write something more meaningful, but for now all I can say is that it's a good story about finding utter completeness. -->
+        What happens when we become complete?  Well according to hsl, that's illegal; reality will immediately try to strangle every piece of candy back out of your jar, and won't stop until you've cracked.  To paraphrase gasai yuno: the yandere is an expression of frustration with the world, that it refuses we find completion.  I realize reality is more bleak as opposed to bitter; satou didn't live to see that true completion never existed to begin with.  But all said and done, I just can't help myself from admiring her ideal.
+        <!-- <br>* -->
     </td>
 </tr>
 <tr>
