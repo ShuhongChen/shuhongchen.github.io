@@ -35,6 +35,25 @@ title: experience
 </tr>
 <tr>
     <td>
+        <img src='./assets/img/logo_bytedance.jpg' class='thumbnail-small'>
+    </td>
+    <td class=pad_xp>
+        <label class=darktext>
+            Vision Research Intern, ByteDance/TikTok
+        </label><br>
+        <i>
+            Mentors:
+            <a href='https://www.linkedin.com/in/yihengz'>Yiheng Zhu</a>,
+            <a href='https://hengcv.github.io/'>Heng Wang</a>,
+            <a href='https://seasonsh.github.io/'>Yichun Shi</a>
+            <br>
+            2022 May – 2022 August
+        </i><br>
+        Intelligent Creation & Computer Vision - Generation Team, working on 3D asset generation.
+    </td>
+</tr>
+<tr>
+    <td>
         <img src='./assets/img/logo_mitll.png' class='thumbnail-small'>
     </td>
     <td class=pad_xp>

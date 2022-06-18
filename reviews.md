@@ -81,7 +81,10 @@ Please note that your favorite anime was excluded from this list in order to per
         </label>
         <!-- <br> -->
         <!-- I used to look down on moral arguments; they seemed terribly inconsistent as a basis for justifying behavior.  Here's the funny thing though: "justification for behavior should be consistent" is a moral argument.  I eventually just accepted that people simply act on their own values.  Quite straightforward when you say it out loud, but it's hard to find good works that express this concept well; aside from shiki, I haven't seen any anime that nails it. -->
-        I've lived a very privileged life; I know this because I've come to appreciate reality as it is.  Shiki strongly resonates with my understanding of reality, in particular human nature.  Though the story doesn't always promise a candid representation of its society, it is very comprehensive for such a large cast.  Even with fairly limited screentime, each character is able to showcase a unique and interesting aspect of ourselves.  The culmination of each individual's fears and motivations into such a thrilling tragic narrative makes Shiki one of my favorite stories of all time.  Also vampires are cool.
+        I've lived a very privileged life; I know this because I've come to appreciate reality as it is.
+        Shiki shows the same respect for "the way things are"; in particular, it's an interesting exploration of the way people are.
+        <!-- Shiki strongly resonates with my understanding of reality, in particular human nature. -->
+        Though the story doesn't always promise a candid representation of its society, it is very comprehensive for such a large cast.  Even with fairly limited screentime, each character is able to showcase a unique and interesting aspect of ourselves.  The culmination of each individual's fears and motivations into such a thrilling tragic narrative makes Shiki one of my favorite stories of all time.  Also vampires are cool.
         <!-- <br>* -->
     </td>
 </tr>
