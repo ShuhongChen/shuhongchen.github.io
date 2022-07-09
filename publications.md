@@ -37,7 +37,7 @@ The best full list is on [google scholar](https://scholar.google.com/citations?h
             M Zwicker
             <br>
         </i>
-        under review
+        ECCV 2022
         <br>
         [<a href='https://arxiv.org/abs/2111.12792'>arxiv</a>]
         [<a href='https://www.semanticscholar.org/paper/Improving-the-Perceptual-Quality-of-2D-Animation-Chen-Zwicker/1711a5355f0a96d9217b086dcd12b15945eade0e'>ss</a>]
