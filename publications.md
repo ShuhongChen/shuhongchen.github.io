@@ -11,7 +11,7 @@ title: publications
 
 The best full list is on [google scholar](https://scholar.google.com/citations?hl=en&user=TcGJKGwAAAAJ&view_op=list_works&sortby=pubdate); the lists on [semanticscholar](https://www.semanticscholar.org/author/Shuhong-Chen/1804228) and [dblp](https://dblp.org/pid/35/1949.html) aren't as complete.
 
-### 1st/2nd author
+<!-- ### 1st/2nd author -->
 
 <style>
 .pad_pubs {
@@ -117,9 +117,55 @@ The best full list is on [google scholar](https://scholar.google.com/citations?h
 </tbody>
 </table>
 
-### 3rd+ author
+<!-- ### 3rd+ author -->
 
 <div>
+    <p>
+        <label class=darktext>
+            Improving the Perceptual Quality of 2D Animation Interpolation<br>
+        </label>
+        <i>
+            <b>S Chen</b>,
+            M Zwicker
+            <br>
+        </i>
+        ECCV2022
+        [<a href='https://arxiv.org/abs/2111.12792'>arxiv</a>]
+        [<a href='https://www.semanticscholar.org/paper/Improving-the-Perceptual-Quality-of-2D-Animation-Chen-Zwicker/1711a5355f0a96d9217b086dcd12b15945eade0e'>ss</a>]
+        [<a href='https://github.com/ShuhongChen/eisai-anime-interpolator/'>code</a>]
+    </p>
+    <p>
+        <label class=darktext>
+            Transfer Learning for Pose Estimation of Illustrated Characters<br>
+        </label>
+        <i>
+            <b>S Chen</b>,
+            M Zwicker
+            <br>
+        </i>
+        WACV2022
+        [<a href='https://arxiv.org/abs/2108.01819'>arxiv</a>]
+        [<a href='https://www.semanticscholar.org/paper/Transfer-Learning-for-Pose-Estimation-of-Characters-Chen-Zwicker/b6cf0b44134a91f70dfb8db500d48fd9bde6150d'>ss</a>]
+        [<a href='https://github.com/ShuhongChen/bizarre-pose-estimator/'>code</a>]
+        [<a href='https://www.youtube.com/watch?v=hOSjbRwfJrs'>video</a>]
+        [<a href='https://github.com/ShuhongChen/bizarre-pose-estimator/blob/main/wacv2022_poster.pdf'>poster</a>]
+    </p>
+    <p>
+        <label class=darktext>
+            Neural Radiosity<br>
+        </label>
+        <i>
+            S Hadadan,
+            <b>S Chen</b>,
+            M Zwicker
+            <br>
+        </i>
+        SIGGRAPH Asia 2021
+        [<a href='https://arxiv.org/abs/2105.12319'>arxiv</a>]
+        [<a href='https://www.semanticscholar.org/paper/Neural-Radiosity-Hadadan-Chen/94261c7cb0d991f4137f55783f76b1f67810366e'>ss</a>]
+        [<a href='https://dl.acm.org/doi/10.1145/3478513.3480569'>acm</a>]
+        [<a href='http://www.cs.umd.edu/~saeedhd/#portfolio/neural_radiosity'>web</a>]
+    </p>
     <p>
         <label class=darktext>
             Residual Recurrent Neural Network for Speech Enhancement<br>
@@ -282,6 +328,20 @@ The best full list is on [google scholar](https://scholar.google.com/citations?h
         ICASSP2018
         [<a href='https://www.semanticscholar.org/paper/Deep-Mul-Timodal-Learning-for-Emotion-Recognition-Gu-Chen/a3394c3d8a84381f1d58970aa904bdb0a76e5fc9'>ss</a>]
         [<a href='https://ieeexplore.ieee.org/document/8462440'>ieee</a>]
+    </p>
+    <p>
+        <label class=darktext>
+            Process-oriented Iterative Multiple Alignment for Medical Process Mining<br>
+        </label>
+        <i>
+            <b>S Chen</b>,
+            S Yang, M Zhou, R Burd, I Marsic
+            <br>
+        </i>
+        ICDM2017 (DMBIH)
+        [<a href='https://arxiv.org/abs/1709.05440'>arxiv</a>]
+        [<a href='https://www.semanticscholar.org/paper/Process-Oriented-Iterative-Multiple-Alignment-for-Chen-Yang/8bf6a42d6ec4d76152f87438e1caaa4d5344148b'>ss</a>]
+        [<a href='https://ieeexplore.ieee.org/document/8215695'>ieee</a>]
     </p>
     <p>
         <label class=darktext>
