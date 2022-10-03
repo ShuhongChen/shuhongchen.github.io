@@ -42,6 +42,8 @@ The best full list is on [google scholar](https://scholar.google.com/citations?h
         [<a href='https://arxiv.org/abs/2111.12792'>arxiv</a>]
         [<a href='https://www.semanticscholar.org/paper/Improving-the-Perceptual-Quality-of-2D-Animation-Chen-Zwicker/1711a5355f0a96d9217b086dcd12b15945eade0e'>ss</a>]
         [<a href='https://github.com/ShuhongChen/eisai-anime-interpolator/'>code</a>]
+        [<a href='https://youtu.be/jy4HKnG9YA0'>video</a>]
+        [<a href='https://github.com/ShuhongChen/eisai-anime-interpolator/blob/master/eccv2022_eisai_poster.pdf'>poster</a>]
     </td>
 </tr>
 <tr>
