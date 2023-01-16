@@ -47,9 +47,9 @@ title: experience
             <a href='https://hengcv.github.io/'>Heng Wang</a>,
             <a href='https://seasonsh.github.io/'>Yichun Shi</a>
             <br>
-            2022 May – 2022 August
+            2022 May – 2022 November
         </i><br>
-        Intelligent Creation & Computer Vision - Generation Team, working on 3D asset generation.
+        Intelligent Creation & Computer Vision - Generation Team, worked on generative modeling of 3D VR character assets; specifically, stylized single-view 3D reconstruction from illustrated character portraits.
     </td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ title: experience
 
 # education
 
-Special thanks to [Prof. Matthew Stone](https://people.cs.rutgers.edu/~mdstone/) and [Prof. Iian Smythe](https://sites.google.com/site/iiansmythe/) for their invaluable guidance and mentorship.
+Special thanks to [Prof. Matthew Stone](https://people.cs.rutgers.edu/~mdstone/), [Prof. Iian Smythe](https://sites.google.com/site/iiansmythe/), and [Prof. Qiang Xu](https://www.linkedin.com/in/qiang-xu-3316b5193/) for their invaluable guidance and mentorship.
 
 <style>
 .pad_edu {

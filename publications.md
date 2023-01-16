@@ -26,6 +26,24 @@ The best full list is on [google scholar](https://scholar.google.com/citations?h
 <tbody>
 <tr>
     <td>
+        <img src='./assets/img/proj_panic.png' class='thumbnail-bigger'>
+    </td>
+    <td class=pad_pubs>
+        <label class=darktext>
+            PAniC-3D: Stylized Single-view 3D Reconstruction from Portraits of Anime Characters<br>
+        </label>
+        <i>
+            <b>S Chen</b>,
+            et. al.
+            <br>
+        </i>
+        under review
+        <br>
+        <small>[<a href='https://virtualyoutuber.fandom.com/wiki/Omaru_Polka'>sauce</a>]</small>
+    </td>
+</tr>
+<tr>
+    <td>
         <img src='./assets/img/proj_eisai.png' class='thumbnail-bigger'>
     </td>
     <td class=pad_pubs>
@@ -89,7 +107,8 @@ The best full list is on [google scholar](https://scholar.google.com/citations?h
         [<a href='https://arxiv.org/abs/2105.12319'>arxiv</a>]
         [<a href='https://www.semanticscholar.org/paper/Neural-Radiosity-Hadadan-Chen/94261c7cb0d991f4137f55783f76b1f67810366e'>ss</a>]
         [<a href='https://dl.acm.org/doi/10.1145/3478513.3480569'>acm</a>]
-        [<a href='http://www.cs.umd.edu/~saeedhd/#portfolio/neural_radiosity'>web</a>]
+        [<a href='http://www.cs.umd.edu/~saeedhd/#portfolio/neural_radiosity'>video</a>]
+        [<a href='https://www.youtube.com/watch?v=cwS_Fw4u0rM'>press</a>]
         [code]
     </td>
 </tr>
