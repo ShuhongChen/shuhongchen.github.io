@@ -35,6 +35,23 @@ title: experience
 </tr>
 <tr>
     <td>
+        <img src='./assets/img/logo_archinc.png' class='thumbnail-small'>
+    </td>
+    <td class=pad_xp>
+        <label class=darktext>
+            Visiting Researcher, Arch Inc. Japan
+        </label><br>
+        <i>
+            Affiliate contact:
+            <a href='https://junkato.jp/'>Jun Kato</a>
+            <br>
+            2023 January – present
+        </i><br>
+        Thanks to colleagues at <a href='https://research.archinc.jp/en/'>Arch Inc.</a> for setting me up as a visiting researcher, to help foster collaboration with anime industry professionals in Japan.  Please direct Arch-related inquiries to shuhong[a]archinc.jp.
+    </td>
+</tr>
+<tr>
+    <td>
         <img src='./assets/img/logo_bytedance.jpg' class='thumbnail-small'>
     </td>
     <td class=pad_xp>
