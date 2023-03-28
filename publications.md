@@ -34,11 +34,21 @@ The best full list is on [google scholar](https://scholar.google.com/citations?h
         </label>
         <i>
             <b>S Chen</b>,
-            et. al.
+            Z Kevin,
+            S Yichun,
+            W Heng,
+            Z Yiheng,
+            S Guoxian,
+            A Sizhe,
+            K Janus,
+            Y Xiao,
+            Z Matthias
             <br>
         </i>
-        under review
+        CVPR 2023
         <br>
+        [<a href='https://arxiv.org/abs/2303.14587'>arxiv</a>]
+        [<a href='https://github.com/ShuhongChen/panic3d-anime-reconstruction/'>code</a>]
         <small>[<a href='https://virtualyoutuber.fandom.com/wiki/Omaru_Polka'>sauce</a>]</small>
     </td>
 </tr>

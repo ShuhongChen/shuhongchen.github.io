@@ -62,7 +62,8 @@ title: experience
             Mentors:
             <a href='https://www.linkedin.com/in/yihengz'>Yiheng Zhu</a>,
             <a href='https://hengcv.github.io/'>Heng Wang</a>,
-            <a href='https://seasonsh.github.io/'>Yichun Shi</a>
+            <a href='https://seasonsh.github.io/'>Yichun Shi</a>,
+            <a href='https://www.linkedin.com/in/xiao-yang-46464934/'>Xiao Yang</a>
             <br>
             2022 May – 2022 November
         </i><br>
