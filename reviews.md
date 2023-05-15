@@ -4,18 +4,13 @@ title: reviews
 ---
 
 
-# about
-
-<!-- Is atla an anime? invincible? bojack horseman? adventure time? arknights? muse dash? <a href='https://steamcommunity.com/workshop/filedetails/?id=756755380'>ck2</a>? -->
+# shu's top anime
 
 I've limited this list to titles with a mal page, for which I've rated 10/10 (masterpiece).  These favorites are listed high to low, with a brief reflection.
 
-<!-- Entries ending with (\*) indicate that I'm incredibly dissatisfied with what I've written, but don't have time to do the show justice. -->
-
-Please note that your favorite anime was excluded from this list in order to personally spite you.
-
-
-# top anime
+Please note that your favorite anime was expressly excluded from this list to personally spite you.
+<br>
+<br>
 
 <style>
 .pad_show_thumbs {
@@ -30,6 +25,27 @@ Please note that your favorite anime was excluded from this list in order to per
 </style>
 <table cellspacing='0' cellpadding='0' border='0'>
 <tbody>
+<tr>
+    <td class=pad_show_thumbs>
+        <img src='/assets/img/shows/da_nao_tiangong.webp' class='thumbnail-big'>
+    </td>
+    <td class=pad_reviews>
+        <a href='https://en.wikipedia.org/wiki/Havoc_in_Heaven' class=darktext>大闹天宫 (1961, 1964)</a>
+        <br>
+        <i class=darktext>
+            Director: <a href='https://en.wikipedia.org/wiki/Wan_Laiming'>Wan, Laiming</a>
+            <br>
+            Studio: <a href='https://en.wikipedia.org/wiki/Shanghai_Animation_Film_Studio'>Shanghai Animation Film Studio</a>
+        </i>
+        <br>
+        <label class=darktext>
+            Who'd win: the entire chinese mythological institution of heaven, or monke.
+        </label>
+        <!-- <br> -->
+        This isn't really anime; I'm not sure why <a href='https://myanimelist.net/anime/6855/Da_Nao_Tiangong'>mal lists this</a>.  Dude this was my childhood; I remember watching a bunch of old chinese animations as a kid; stuff like three monks, afanti, supersoap, etc. Stories with sun wukong were lit; you really can't get more epic than smashing down the heavenly palace.
+        齐天大圣: the great sage, equal of heaven.  I was always a bit bothered that this opens some power scaling issues between the taoist jade emperor and buddha, but whatever. Also, big honorable mention to the <a href='https://myanimelist.net/anime/9417/Jin_Hou_Xiang_Yao'>三打白骨精 movie</a>; absolutely terrifying yet beautiful.
+    </td>
+</tr>
 <tr>
     <td class=pad_show_thumbs>
         <img src='/assets/img/shows/nichijou.webp' class='thumbnail-big'>
@@ -49,16 +65,8 @@ Please note that your favorite anime was excluded from this list in order to per
             Our daily lives may just be a series of miracles.
         </label>
         <!-- <br> -->
-        Is my intuition correct?  Are my ideas publishable?
-        What is time management skills?
-        Why does nothing work?
-        Can I build a career from this research?
-        Will there still be peace when I graduate?
-        Is the back pain normal now?
-        How much longer do we have?
-        Will I be ok dying alone?
-        <br>
-        I do not know but, Nichijou was very fun.  Mogami river.
+        People say nichijou's not funny, and I agree.  It has several funny moments, but I think the point was to be interesting.  Everything in this series showed me a different way of seeing things while making a good time out of it.
+        <!-- Mogami river. -->
     </td>
 </tr>
 <tr>
@@ -80,12 +88,7 @@ Please note that your favorite anime was excluded from this list in order to per
             When you turned shiki, you became exempt from god's judgement; but you kept your faith in god.
         </label>
         <!-- <br> -->
-        <!-- I used to look down on moral arguments; they seemed terribly inconsistent as a basis for justifying behavior.  Here's the funny thing though: "justification for behavior should be consistent" is a moral argument.  I eventually just accepted that people simply act on their own values.  Quite straightforward when you say it out loud, but it's hard to find good works that express this concept well; aside from shiki, I haven't seen any anime that nails it. -->
-        I've lived a very privileged life; I know this because I've come to appreciate reality as it is.
-        Shiki shows the same respect for "the way things are"; in particular, it's an interesting exploration of the way people are.
-        <!-- Shiki strongly resonates with my understanding of reality, in particular human nature. -->
-        Though the story doesn't always promise a candid representation of its society, it is very comprehensive for such a large cast.  Even with fairly limited screentime, each character is able to showcase a unique and interesting aspect of ourselves.  The culmination of each individual's fears and motivations into such a thrilling tragic narrative makes Shiki one of my favorite stories of all time.  Also vampires are cool.
-        <!-- <br>* -->
+        Anime vampires: the coolest way to tell a tragedy about inherently incompatible social value systems.  It's rare that I find such a complex well-executed story in any medium (maybe because I don't read lol)
     </td>
 </tr>
 <tr>
@@ -102,10 +105,13 @@ Please note that your favorite anime was excluded from this list in order to per
         </i>
         <br>
         <label class=darktext>
-            Mizushima - favorite director hands down.
+            I want to make the many fragments of hope
+            inside my heart come true,
+            and paint them in the world that starts to run.
         </label>
         <!-- <br> -->
-        Girls und panzer, ika musume, joshiraku, plastic neesan, prison school, mayoiga, another (kinda); so many great shows, but I'd say this is his best work.  I actually didn't like shirobako the first time; lost track of peoples' jobs and got bored.  My rewatch was completely different, not only because I'd learned some anime production basics, but because I'd started thinking about my own career.  Cutting out a place for yourself isn't easy, but watching cute anime characters find fulfilling creative work somehow takes the edge off a bit. <!-- <br>* -->
+        There's an actually readable english translation of OP1 <a href='https://shirobako.fandom.com/wiki/COLORFUL_BOX#English'>here</a>; I think the song pretty much sums up the beauty imparted by the anime.
+        Mizushima is my favorite director hands down: girls und panzer, ika musume, joshiraku, plastic neesan, prison school, mayoiga, another (kinda)
     </td>
 </tr>
 <tr>
@@ -127,8 +133,7 @@ Please note that your favorite anime was excluded from this list in order to per
             I was in love with the girl who was missing something; that pitiful girl, grieving at her lack.
         </label>
         <!-- <br> -->
-        <!-- Honestly, I don't know why I like hsl.  It's engaging and well-produced, but this doesn't make it special.  Unlike the other 10/10s there's no thesis that really satisfies me, yet I'm still compelled to put it high on my list.  This has been on my mind for years, but I still can't figure it out; maybe there's just something wrong with me.  I wanted to write something more meaningful, but for now all I can say is that it's a good story about finding utter completeness. -->
-        What happens when we become complete?  Well according to hsl, that's illegal; reality will immediately try to strangle every piece of candy back out of your jar, and won't stop until you've cracked.  To paraphrase gasai yuno: the yandere is an expression of frustration with the world, that it refuses we find completion.  I realize reality is more bleak as opposed to bitter; satou didn't live to see that true completion never existed to begin with.  But all said and done, I just can't help myself from admiring her ideal.
+        What happens when we become complete?  Well, hsl says that's illegal.  To paraphrase gasai yuno: the yandere is bitter frustration with the world, that it refuses we become complete.  I think reality is more bleak than bitter; satou didn't live to see that true completion never existed to begin with.  But one can dream.
         <!-- <br>* -->
     </td>
 </tr>
@@ -151,7 +156,7 @@ Please note that your favorite anime was excluded from this list in order to per
             Counteraction: risen.
         </label>
         <!-- <br> -->
-        It's really something when an isekai anime convincingly births an economy by introducing bigmacs.  Log horizon sure has its issues (many issues), but its high points are some of the best moments in anime.  Instead of rehashing things, I'll just link this great analysis series called "dissecting log horizon" by the golden witch (hopefully these <a href="https://youtube.com/playlist?list=PLdOsb-MYEc0HUfrzXw2ZukWWYQD7x6ia8">links</a> still work).  Good academic content on good anime is hard to come by; highly recommend both the show and analysis. <!-- <br>* -->
+        It's really something when an isekai convincingly births an economy by introducing fastfood.  Instead of rehashing things, I'll just link this <a href="https://youtube.com/playlist?list=PLdOsb-MYEc0HUfrzXw2ZukWWYQD7x6ia8">great analysis series</a> by the golden witch.  Good academic content on good anime is hard to come by; highly recommend both the show and analysis. <!-- <br>* -->
     </td>
 </tr>
 <tr>
@@ -173,7 +178,7 @@ Please note that your favorite anime was excluded from this list in order to per
             Don't let her fool you; remember, she wasn't so different from hina when she first got here.
         </label>
         <!-- <br> -->
-        It's common knowledge that under our a.t. fields, we're all just the same orange fanta. But then what makes us different?  I think a big part is just where your metal egg drops, and who pushes the red button on the back. Also, this is literally the funniest show I've ever watched.  While a lot comes from the manga, I still think it really took someone like oikawa to nail the situational absurdity; watch konobi and outbreak company.
+        It's common knowledge that under our a.t. fields, we're all the same orange fanta. But then what makes us different?  I think a big part is just where your metal egg drops, and who pushes the red button on the back. Also, this is literally the funniest show I've ever watched.  While a lot comes from the manga, I still think it really took someone like oikawa to nail the situational absurdity; watch konobi and outbreak company.
     </td>
 </tr>
 <tr>
@@ -217,32 +222,14 @@ Please note that your favorite anime was excluded from this list in order to per
             YMCA!
         </label>
         <!-- <br> -->
-        In the interest of keeping things sfw, I'm omitting the review; sorry.  It's an excellent show. <!-- <br>* -->
-    </td>
-</tr>
-<tr>
-    <td class=pad_show_thumbs>
-        <img src='/assets/img/shows/da_nao_tiangong.webp' class='thumbnail-big'>
-    </td>
-    <td class=pad_reviews>
-        <a href='https://en.wikipedia.org/wiki/Havoc_in_Heaven' class=darktext>大闹天宫 (1961, 1964)</a>
-        <br>
-        <i class=darktext>
-            Director: <a href='https://en.wikipedia.org/wiki/Wan_Laiming'>Wan, Laiming</a>
-            <br>
-            Studio: <a href='https://en.wikipedia.org/wiki/Shanghai_Animation_Film_Studio'>Shanghai Animation Film Studio</a>
-        </i>
-        <br>
-        <label class=darktext>
-            Who'd win: the entire chinese mythological institution of heaven, or monke.
-        </label>
-        <!-- <br> -->
-        This entry isn't comparable/sortable with the others; I'm not really sure why mal lists this as anime.  This was my childhood; I remember watching a bunch of old chinese animations as a kid; stuff like three monks, afanti, supersoap, etc. Stories with sun wukong were lit; you really can't get more epic than smashing down the heavenly palace.
-        齐天大圣: the great sage, equal of heaven.  I was always a bit bothered that this opens some power scaling issues between the taoist jade emperor and buddha, but whatever. Also, big honorable mention to the 三打白骨精 movie; absolutely terrifying yet beautiful.
+        I hope you got tired of reading before making it to this title.
+        Excellent show; really fun and creative.
+        <!-- <br>* -->
     </td>
 </tr>
 </tbody>
 </table>
+
 
 
 
