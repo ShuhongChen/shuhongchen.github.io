@@ -5,11 +5,15 @@ title: artwork
 ---
 
 <style>
+img[alt=sucks] {
+    max-width: 60%;
+    border: 1px solid black;
+/*    vertical-align: middle;*/
+}
 img[alt=artwork] {
     max-width: 40%;
     border: 1px solid black;
 /*    vertical-align: middle;*/
-
 }
 img[alt=artwork-2] {
     max-width: 90%;
@@ -23,12 +27,15 @@ img[alt=artwork-2] {
 
 # artwork
 
+![sucks](./assets/art/it_sucks_actually.jpg)  
+
 <!-- [pixiv account](https://www.pixiv.net/en/users/56056643)   -->
 <!-- (may need to log-in to see all posts) -->
 
 [fanart](#fanart)  
 [original](#original)  
 [exercises](#exercises)  
+
 
 
 ## fanart
