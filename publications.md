@@ -48,7 +48,10 @@ The best full list is on [google scholar](https://scholar.google.com/citations?h
         CVPR 2023
         <br>
         [<a href='https://arxiv.org/abs/2303.14587'>arxiv</a>]
+        [<a href='https://api.semanticscholar.org/CorpusID:257767141?utm_source=wikipedia'>ss</a>]
         [<a href='https://github.com/ShuhongChen/panic3d-anime-reconstruction/'>code</a>]
+        [<a href='https://www.youtube.com/watch?v=7NosmLieg6A'>video</a>]
+        [<a href='https://github.com/ShuhongChen/panic3d-anime-reconstruction/blob/master/supplementary/cvpr2023_poster.pdf'>poster</a>]
         <small>[<a href='https://virtualyoutuber.fandom.com/wiki/Omaru_Polka'>sauce</a>]</small>
     </td>
 </tr>
