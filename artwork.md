@@ -51,14 +51,20 @@ img[alt=artwork-2] {
 ![artwork](./assets/art/fanart/chainsaw_man_kobeni_0.png)
 ![artwork-2](./assets/art/fanart/gintama_kagura_0.png)
 ![artwork](./assets/art/fanart/nagato_yuki_0.png)
-![artwork](./assets/art/fanart/nagato_yuki_1.png)
-![artwork-2](./assets/art/fanart/shiki_fuck_0.png)
 ![artwork](./assets/art/fanart/outbreak_company_myucel_0.png)
-![artwork](./assets/art/fanart/working_todoroki_0.png)
-![artwork-2](./assets/art/fanart/cross_nnb_mikakunin_0.png)
+![artwork](./assets/art/fanart/nagato_yuki_1.png)
 ![artwork](./assets/art/fanart/yuruyuri_kyouko_0.png)
 ![artwork](./assets/art/fanart/konosuba_aqua_0.png)
 ![artwork](./assets/art/fanart/urusei_yatsura_moroboshi_0.png)
+<details>
+    <summary>shiki spoiler</summary>
+    <img src='./assets/art/fanart/shiki_fuck_0.png' alt='artwork-2'/>
+</details>
+
+![artwork-2](./assets/art/fanart/cross_nnb_mikakunin_0.png)
+![artwork](./assets/art/fanart/working_todoroki_0.png)
+
+
 
 ## original
 
