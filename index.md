@@ -5,13 +5,15 @@ layout: home
 
 # shu
 
-I'm shu, a comp sci PhD student at University of Maryland - College Park under [Prof. Matthias Zwicker](https://www.cs.umd.edu/~zwicker/); I entered 2019, and plan to graduate 2024.  I'm also a visiting researcher at [Arch Inc., JP](https://research.archinc.jp/en/).
+I'm a computer science PhD student at University of Maryland - College Park advised by [Prof. Matthias Zwicker](https://www.cs.umd.edu/~zwicker/); I entered in 2019, and plan to graduate in 2024.
 
-My [research](./publications) uses graphics and computer vision techniques for non-photorealistic content creation, with emphasis on animated, illustrated, and 3D characters.
+My [research](./publications) uses graphics and computer vision techniques for anime-style content creation, including animation, illustration, and 3D characters.
 
-I like anime; my favorite is [Nichijou (2011)](https://myanimelist.net/anime/10165/Nichijou).  To trash on my taste, please see my [mal profile](https://myanimelist.net/profile/shuchen) or my [top anime page](./reviews).
+Often I'll also [collaborate outside academia](./experience), with both the tech and anime industries (TikTok, Meta, OLM Digital, Arch Inc., etc.).
 
-This site is incomplete; for more shu, please see the [latest cv](./assets/documents/cv_shuhong_chen.pdf).
+I just so happen to like anime; my favorite is [Nichijou (2011)](https://myanimelist.net/anime/10165/Nichijou).  To trash on my taste, please see my [mal profile](https://myanimelist.net/profile/shuchen) or my [top anime page](./reviews).
+
+<!-- This site is incomplete; for more shu, please see the [latest cv](./assets/documents/cv_shuhong_chen.pdf). -->
 
 
 # research

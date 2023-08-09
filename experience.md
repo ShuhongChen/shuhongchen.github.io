@@ -23,14 +23,58 @@ title: experience
     </td>
     <td class=pad_xp>
         <label class=darktext>
-            PhD Research Assistant, UMD CS
+            PhD Graduate Research Assistant, UMD CS
         </label><br>
         <i>
             Advisor: <a href='https://www.cs.umd.edu/~zwicker/'>Prof. Matthias Zwicker</a>
             <br>
             2020 June – present
+            <br>
+            College Park, Maryland, USA
         </i><br>
         I am exploring novel ways of creating and manipulating illustrations and animations, by leveraging both data-driven vision techniques and 3D graphics representations.  I am also interested in new rendering methods using deep learning. 
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src='./assets/img/logo_meta.png' class='thumbnail-small'>
+    </td>
+    <td class=pad_xp>
+        <label class=darktext>
+            Research Scientist Intern, Meta
+        </label><br>
+        <i>
+            Mentors:
+            <a href='https://sites.google.com/view/amitumd/home'>Amit Kumar</a>,
+            <a href='https://engineering.purdue.edu/people/xiaoyu.xiang.1'>Xiaoyu Xiang</a>,
+            <a href='https://www.linkedin.com/in/rakesh-r-3848538/'>Rakesh Ranjan</a>
+            <br>
+            2023 August – 2023 December
+            <br>
+            Menlo Park, California, USA
+        </i><br>
+        Working on diffusion models applied to non-photorealistic 3D modeling topics.
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src='./assets/img/logo_olmd.png' class='thumbnail-small'>
+    </td>
+    <td class=pad_xp>
+        <label class=darktext>
+            Research Collaborator, OLM Digital Inc.
+        </label><br>
+        <i>
+            Supervisors:
+            <a href='https://www.linkedin.com/in/akinoubu-maejima-36257930/?originalSubdomain=jp'>Maejima Akinobu</a>,
+            <a href='https://www.researchgate.net/profile/Marc-Salvati'>Marc Salvati</a>,
+            <a href='https://www.linkedin.com/in/tatsuo-yotsukura-9969551/?originalSubdomain=jp'>Tatsuo Yotsukura</a>
+            <br>
+            2023 July
+            <br>
+            Setagaya, Tokyo, Japan
+        </i><br>
+        Research & Development Division, worked on automatic cleanup of genga to douga.  Collaborated in-person in Setagaya, Tokyo to learn more about the anime production process, and to train deep models on real production data.
     </td>
 </tr>
 <tr>
@@ -39,13 +83,15 @@ title: experience
     </td>
     <td class=pad_xp>
         <label class=darktext>
-            Visiting Researcher, Arch Inc. Japan
+            Visiting Researcher, Arch Inc.
         </label><br>
         <i>
             Affiliate contact:
             <a href='https://junkato.jp/'>Jun Kato</a>
             <br>
-            2023 January – present
+            2023 January
+            <br>
+            Yoyogi Shibuya, Tokyo, Japan (remote)
         </i><br>
         Thanks to colleagues at <a href='https://research.archinc.jp/en/'>Arch Inc.</a> for setting me up as a visiting researcher, to help foster collaboration with anime industry professionals in Japan.  Please direct Arch-related inquiries to shuhong[a]archinc.jp.
     </td>
@@ -66,6 +112,8 @@ title: experience
             <a href='https://www.linkedin.com/in/xiao-yang-46464934/'>Xiao Yang</a>
             <br>
             2022 May – 2022 November
+            <br>
+            Mountain View, California, USA (remote)
         </i><br>
         Intelligent Creation & Computer Vision - Generation Team, worked on generative modeling of 3D VR character assets; specifically, stylized single-view 3D reconstruction from illustrated character portraits.
     </td>
@@ -82,6 +130,8 @@ title: experience
             Advisor: <a href='https://www.linkedin.com/in/mikeschan/'>Dr. Michael Chan</a>
             <br>
             2018 June – 2018 August
+            <br>
+            Lexington, Massachusetts, USA
         </i><br>
         I looked at automatically discovering recurrent neural network architectures for video action recognition.  I was also a finalist at the lab’s Intern Innovative Idea Challenge.
     </td>
@@ -98,6 +148,8 @@ title: experience
             Advisor: <a href='https://www.ece.rutgers.edu/~marsic/'>Prof. Ivan Marsic</a>
             <br>
             2015 October – 2019 May
+            <br>
+            New Brunswick, New Jersey, USA
         </i><br>
         I worked with grad students on healthcare informatics for trauma resuscitations; topics included process mining, workflow analysis, data visualization, NLP, and CV.
     </td>
@@ -153,6 +205,30 @@ Special thanks to [Prof. Matthew Stone](https://people.cs.rutgers.edu/~mdstone/)
 </tbody>
 </table>
 
+
+# invited talks
+
+- 2023 July, University of Tokyo, Takeo Igarashi Lab, "ML for Anime: Illustration, Animation, and 3D Models"
+- 2023 March, Chimera Entertainment, "What are Generative Image Models?"
+
+
+# teaching + mentorship
+
+<label class=darktext>MS students advised:</label>  
+2022: Eric Changzhi Li, Srinidhi Hegde  
+2021: Janus Thor Kristjansson, Jiaxuan Mary Wu  
+
+<label class=darktext>BS students advised:</label>  
+2022: Andy Qu  
+2020: Nikhil Pateel  
+
+<label class=darktext>classes taught:</label>  
+M2021 UMD AI4ALL Project Lead: Making Art with Neural Networks  
+S2020 TA CMSC417: Computer Networks, Prof. Nirupam Roy, UMD  
+F2019 TA CMSC132: OOP II, Prof. Nelson Pauda-Perez and Pedram Sadeghian, UMD  
+2016-2019 Lecturer, ML/AI Division Director, Rutgers IEEE E-Board  
+2016 Tutor, Math & Engineering, Rutgers OSS Educational Opportunity Fund  
+2013-2016 TA Chinese Second Language, Huaxia Morris Chinese Academy  
 
 
 # awards

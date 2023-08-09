@@ -9,7 +9,7 @@ title: publications
 
 # publications
 
-The best full list is on [google scholar](https://scholar.google.com/citations?hl=en&user=TcGJKGwAAAAJ&view_op=list_works&sortby=pubdate); the lists on [semanticscholar](https://www.semanticscholar.org/author/Shuhong-Chen/1804228) and [dblp](https://dblp.org/pid/35/1949.html) aren't as complete.
+The best full list is on [google scholar](https://scholar.google.com/citations?hl=en&user=TcGJKGwAAAAJ&view_op=list_works&sortby=pubdate); the lists on [semanticscholar](https://www.semanticscholar.org/author/Shuhong-Chen/1804228) and [dblp](https://dblp.org/pid/35/1949.html) aren't as complete.  Below are featured projects, followed by the full list.
 
 <!-- ### 1st/2nd author -->
 
@@ -47,9 +47,9 @@ The best full list is on [google scholar](https://scholar.google.com/citations?h
         </i>
         CVPR 2023
         <br>
+        [<a href='https://github.com/ShuhongChen/panic3d-anime-reconstruction/'>code</a>]
         [<a href='https://arxiv.org/abs/2303.14587'>arxiv</a>]
         [<a href='https://api.semanticscholar.org/CorpusID:257767141?utm_source=wikipedia'>ss</a>]
-        [<a href='https://github.com/ShuhongChen/panic3d-anime-reconstruction/'>code</a>]
         [<a href='https://www.youtube.com/watch?v=7NosmLieg6A'>video</a>]
         [<a href='https://github.com/ShuhongChen/panic3d-anime-reconstruction/blob/master/supplementary/cvpr2023_poster.pdf'>poster</a>]
         <small>[<a href='https://virtualyoutuber.fandom.com/wiki/Omaru_Polka'>sauce</a>]</small>
@@ -70,9 +70,9 @@ The best full list is on [google scholar](https://scholar.google.com/citations?h
         </i>
         ECCV 2022
         <br>
+        [<a href='https://github.com/ShuhongChen/eisai-anime-interpolator/'>code</a>]
         [<a href='https://arxiv.org/abs/2111.12792'>arxiv</a>]
         [<a href='https://www.semanticscholar.org/paper/Improving-the-Perceptual-Quality-of-2D-Animation-Chen-Zwicker/1711a5355f0a96d9217b086dcd12b15945eade0e'>ss</a>]
-        [<a href='https://github.com/ShuhongChen/eisai-anime-interpolator/'>code</a>]
         [<a href='https://youtu.be/jy4HKnG9YA0'>video</a>]
         [<a href='https://github.com/ShuhongChen/eisai-anime-interpolator/blob/master/eccv2022_eisai_poster.pdf'>poster</a>]
     </td>
@@ -92,9 +92,9 @@ The best full list is on [google scholar](https://scholar.google.com/citations?h
         </i>
         WACV 2022
         <br>
+        [<a href='https://github.com/ShuhongChen/bizarre-pose-estimator/'>code</a>]
         [<a href='https://arxiv.org/abs/2108.01819'>arxiv</a>]
         [<a href='https://www.semanticscholar.org/paper/Transfer-Learning-for-Pose-Estimation-of-Characters-Chen-Zwicker/b6cf0b44134a91f70dfb8db500d48fd9bde6150d'>ss</a>]
-        [<a href='https://github.com/ShuhongChen/bizarre-pose-estimator/'>code</a>]
         [<a href='https://www.youtube.com/watch?v=hOSjbRwfJrs'>video</a>]
         [<a href='https://github.com/ShuhongChen/bizarre-pose-estimator/blob/main/wacv2022_poster.pdf'>poster</a>]
         <small>[<a href='https://www.pixiv.net/en/artworks/67179030'>sauce</a>]</small>
@@ -117,12 +117,13 @@ The best full list is on [google scholar](https://scholar.google.com/citations?h
         </i>
         SIGGRAPH Asia 2021
         <br>
+        [<a href='https://github.com/saeedhd96/neural-radiosity'>code</a>]
+        [<a href='https://saeedhd96.github.io/neural-radiosity/'>web</a>]
         [<a href='https://arxiv.org/abs/2105.12319'>arxiv</a>]
         [<a href='https://www.semanticscholar.org/paper/Neural-Radiosity-Hadadan-Chen/94261c7cb0d991f4137f55783f76b1f67810366e'>ss</a>]
         [<a href='https://dl.acm.org/doi/10.1145/3478513.3480569'>acm</a>]
         [<a href='http://www.cs.umd.edu/~saeedhd/#portfolio/neural_radiosity'>video</a>]
         [<a href='https://www.youtube.com/watch?v=cwS_Fw4u0rM'>press</a>]
-        [code]
     </td>
 </tr>
 <tr>
@@ -154,6 +155,28 @@ The best full list is on [google scholar](https://scholar.google.com/citations?h
 <!-- ### 3rd+ author -->
 
 <div>
+    <p>
+        <label class=darktext>
+            PAniC-3D: Stylized Single-view 3D Reconstruction from Portraits of Anime Characters<br>
+        </label>
+        <i>
+            <b>S Chen</b>,
+            Z Kevin,
+            S Yichun,
+            W Heng,
+            Z Yiheng,
+            S Guoxian,
+            A Sizhe,
+            K Janus,
+            Y Xiao,
+            Z Matthias
+            <br>
+        </i>
+        CVPR2023
+        [<a href='https://arxiv.org/abs/2303.14587'>arxiv</a>]
+        [<a href='https://api.semanticscholar.org/CorpusID:257767141?utm_source=wikipedia'>ss</a>]
+        [<a href='https://github.com/ShuhongChen/panic3d-anime-reconstruction/'>code</a>]
+    </p>
     <p>
         <label class=darktext>
             Improving the Perceptual Quality of 2D Animation Interpolation<br>
@@ -532,7 +555,29 @@ The best full list is on [google scholar](https://scholar.google.com/citations?h
 </div>
 
 
+# graduate course projects
 
+- SM-Scraper: Analysis and Visualization of Scraped Social Media Content  
+  - Partners: Deepti Bisht, Ophir Gal, Jerry Qian, and Yiheng Xu  
+  - S2021 UMD, Intro to Data Visualization, Prof. Leilani Battle  
+  - In association with the Full Disclosure Project  
+- Adversarial Attack on Single-view 3D Reconstruction  
+  - Partners: Neha Kalibhat, Vedant Nanda  
+  - F2021 UMD, Visual Learning & Recognition, Prof. Abhinav Shrivastava  
+- Exploring Lexical and Syntactic Features of Reddit Suicidality Data  
+  - Partners: Yow-Ting Shiue, Md Main Uddin Rony  
+  - S2020 UMD, Computational Linguistics II, Prof. Philip Resnik  
+- Nori Ray-Tracer  
+  - S2020 UMD, Advanced Computer Graphics, Prof. Matthias Zwicker  
+- Transflow: Image-to-Image Translation using Normalizing Flows  
+  - Partners: Vaishnavi Patil, Manas Agarwal  
+  - F2019 UMD, Machine Learning, Prof. Soheil Feizi  
+- Finding Tree Structures in Deep NLP Models  
+  - Partners: Benjamin Black, William Chen, Xiaoyu Liu  
+  - F2019 UMD, Computational Linguistics I, Prof. Hal Daume  
+- Incorporating Dependency Relations for Deep Question Answering  
+  - Partners: Karl Mulligan, Kevin Pei, Vishal Rohra  
+  - S2018 Rutgers, Natural Language Processing, Prof. Matthew Stone  
 
 
 
