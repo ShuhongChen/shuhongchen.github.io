@@ -47,6 +47,7 @@ title: experience
             Mentors:
             <a href='https://sites.google.com/view/amitumd/home'>Amit Kumar</a>,
             <a href='https://engineering.purdue.edu/people/xiaoyu.xiang.1'>Xiaoyu Xiang</a>,
+            <a href='https://sreyas-mohan.github.io'>Sreyas Mohan</a>,
             <a href='https://www.linkedin.com/in/rakesh-r-3848538/'>Rakesh Ranjan</a>
             <br>
             2023 August – 2023 December
