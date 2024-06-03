@@ -4,13 +4,20 @@ show_home: True
 title: philosophy
 ---
 
-# research philosophy
+# rants
 
 I think rants should be short; short rants are hard.\
 Possibly more rants to come...
 
 
+## AI in my art
+
+Moved to the [artwork page](/artwork).
+
+
 ## graphics is the future of computer vision
+
+_2021-08_
 
 I believe that to truly "understand" data, we must analyze its generative process.  For images, generation is a well-studied physical process: light bounces around and enters a camera.  We are even able to accurately simulate image synthesis through computer graphics.  However, the most powerful image understanding models today work at the pixel-level, without 3D representations or light transport.
 

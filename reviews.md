@@ -30,20 +30,20 @@ Please note that your favorite anime was expressly excluded from this list to pe
         <img src='/assets/img/shows/da_nao_tiangong.webp' class='thumbnail-big'>
     </td>
     <td class=pad_reviews>
-        <a href='https://en.wikipedia.org/wiki/Havoc_in_Heaven' class=darktext>大闹天宫 (1961, 1964)</a>
+        <a target='blank' href='https://en.wikipedia.org/wiki/Havoc_in_Heaven' class=darktext>大闹天宫 (1961, 1964)</a>
         <br>
         <i class=darktext>
-            Director: <a href='https://en.wikipedia.org/wiki/Wan_Laiming'>Wan, Laiming</a>
+            Director: <a target='blank' href='https://en.wikipedia.org/wiki/Wan_Laiming'>Wan, Laiming</a>
             <br>
-            Studio: <a href='https://en.wikipedia.org/wiki/Shanghai_Animation_Film_Studio'>Shanghai Animation Film Studio</a>
+            Studio: <a target='blank' href='https://en.wikipedia.org/wiki/Shanghai_Animation_Film_Studio'>Shanghai Animation Film Studio</a>
         </i>
         <br>
         <label class=darktext>
             Who'd win: the entire chinese mythological institution of heaven, or monke.
         </label>
         <!-- <br> -->
-        This isn't really anime; I'm not sure why <a href='https://myanimelist.net/anime/6855/Da_Nao_Tiangong'>mal lists this</a>.  Dude this was my childhood; I remember watching a bunch of old chinese animations as a kid; stuff like three monks, afanti, supersoap, etc. Stories with sun wukong were lit; you really can't get more epic than smashing down the heavenly palace.
-        齐天大圣: the great sage, equal of heaven.  I was always a bit bothered that this opens some power scaling issues between the taoist jade emperor and buddha, but whatever. Also, big honorable mention to the <a href='https://myanimelist.net/anime/9417/Jin_Hou_Xiang_Yao'>三打白骨精 movie</a>; absolutely terrifying yet beautiful.
+        This isn't really anime; I'm not sure why <a target='blank' href='https://myanimelist.net/anime/6855/Da_Nao_Tiangong'>mal lists this</a>.  Dude this was my childhood; I remember watching a bunch of old chinese animations as a kid; stuff like three monks, afanti, supersoap, etc. Stories with sun wukong were lit; you really can't get more epic than smashing down the heavenly palace.
+        齐天大圣: the great sage, equal of heaven.  I was always a bit bothered that this opens some power scaling issues between the taoist jade emperor and buddha, but whatever. Also, big honorable mention to the <a target='blank' href='https://myanimelist.net/anime/9417/Jin_Hou_Xiang_Yao'>三打白骨精 movie</a>; absolutely terrifying yet beautiful.
     </td>
 </tr>
 <tr>
@@ -51,14 +51,14 @@ Please note that your favorite anime was expressly excluded from this list to pe
         <img src='/assets/img/shows/nichijou.webp' class='thumbnail-big'>
     </td>
     <td class=pad_reviews>
-        <a href='https://myanimelist.net/anime/10165/Nichijou' class=darktext>Nichijou (2011)</a>
+        <a target='blank' href='https://myanimelist.net/anime/10165/Nichijou' class=darktext>Nichijou (2011)</a>
         <br>
         <i class=darktext>
-            Director: <a href='https://myanimelist.net/people/5055/Tatsuya_Ishihara'>Ishihara, Tatsuya</a>
+            Director: <a target='blank' href='https://myanimelist.net/people/5055/Tatsuya_Ishihara'>Ishihara, Tatsuya</a>
             <br>
-            Creator: <a href='https://myanimelist.net/people/3504/Keiichi_Arawi'>Arawi, Keiichi</a>
+            Creator: <a target='blank' href='https://myanimelist.net/people/3504/Keiichi_Arawi'>Arawi, Keiichi</a>
             <br>
-            Studio: <a href='https://myanimelist.net/anime/producer/2/Kyoto_Animation'>Kyoto Animation</a>
+            Studio: <a target='blank' href='https://myanimelist.net/anime/producer/2/Kyoto_Animation'>Kyoto Animation</a>
         </i>
         <br>
         <label class=darktext>
@@ -74,14 +74,14 @@ Please note that your favorite anime was expressly excluded from this list to pe
         <img src='/assets/img/shows/shiki.webp' class='thumbnail-big'>
     </td>
     <td class=pad_reviews>
-        <a href='https://myanimelist.net/anime/7724/Shiki' class=darktext>Shiki (2010)</a>
+        <a target='blank' href='https://myanimelist.net/anime/7724/Shiki' class=darktext>Shiki (2010)</a>
         <br>
         <i class=darktext>
-            Director: <a href='https://myanimelist.net/people/9826/Tetsuro_Amino'>Amino, Tetsuro</a>
+            Director: <a target='blank' href='https://myanimelist.net/people/9826/Tetsuro_Amino'>Amino, Tetsuro</a>
             <br>
-            Creator: <a href='https://myanimelist.net/people/2723/Fuyumi_Ono'>Ono, Fuyumi</a>
+            Creator: <a target='blank' href='https://myanimelist.net/people/2723/Fuyumi_Ono'>Ono, Fuyumi</a>
             <br>
-            Studio: <a href='https://myanimelist.net/anime/producer/39/Daume'>Daume</a>
+            Studio: <a target='blank' href='https://myanimelist.net/anime/producer/39/Daume'>Daume</a>
         </i>
         <br>
         <label class=darktext>
@@ -96,12 +96,12 @@ Please note that your favorite anime was expressly excluded from this list to pe
         <img src='/assets/img/shows/shirobako.webp' class='thumbnail-big'>
     </td>
     <td class=pad_reviews>
-        <a href='https://myanimelist.net/anime/25835/Shirobako' class=darktext>Shirobako (2014)</a>
+        <a target='blank' href='https://myanimelist.net/anime/25835/Shirobako' class=darktext>Shirobako (2014)</a>
         <br>
         <i class=darktext>
-            Director: <a href='https://myanimelist.net/people/9552/Tsutomu_Mizushima'>Mizushima, Tsutomu</a>
+            Director: <a target='blank' href='https://myanimelist.net/people/9552/Tsutomu_Mizushima'>Mizushima, Tsutomu</a>
             <br>
-            Studio: <a href='https://myanimelist.net/anime/producer/132/PA_Works'>P.A. Works</a>
+            Studio: <a target='blank' href='https://myanimelist.net/anime/producer/132/PA_Works'>P.A. Works</a>
         </i>
         <br>
         <label class=darktext>
@@ -110,7 +110,7 @@ Please note that your favorite anime was expressly excluded from this list to pe
             and paint them in the world that starts to run.
         </label>
         <!-- <br> -->
-        There's an actually readable english translation of OP1 <a href='https://shirobako.fandom.com/wiki/COLORFUL_BOX#English'>here</a>; I think the song pretty much sums up the beauty imparted by the anime.
+        There's an actually readable english translation of OP1 <a target='blank' href='https://shirobako.fandom.com/wiki/COLORFUL_BOX#English'>here</a>; I think the song pretty much sums up the beauty imparted by the anime.
         Mizushima is my favorite director hands down: girls und panzer, ika musume, joshiraku, plastic neesan, prison school, mayoiga, another (kinda)
     </td>
 </tr>
@@ -119,14 +119,14 @@ Please note that your favorite anime was expressly excluded from this list to pe
         <img src='/assets/img/shows/happy_sugar_life.webp' class='thumbnail-big'>
     </td>
     <td class=pad_reviews>
-        <a href='https://myanimelist.net/anime/37517/Happy_Sugar_Life' class=darktext>Happy Sugar Life (2018)</a>
+        <a target='blank' href='https://myanimelist.net/anime/37517/Happy_Sugar_Life' class=darktext>Happy Sugar Life (2018)</a>
         <br>
         <i class=darktext>
-            Directors: <a href='https://myanimelist.net/people/12655/Keizou_Kusakawa'>Kusakawa, Keizou</a>; <a href='https://myanimelist.net/people/47948/Nobuyoshi_Nagayama'>Nagayama, Nobuyoshi</a>
+            Directors: <a target='blank' href='https://myanimelist.net/people/12655/Keizou_Kusakawa'>Kusakawa, Keizou</a>; <a target='blank' href='https://myanimelist.net/people/47948/Nobuyoshi_Nagayama'>Nagayama, Nobuyoshi</a>
             <br>
-            Creator: <a href='https://myanimelist.net/people/13563/Tomiyaki_Kagisora'>Kagisora, Tomiyaki</a>
+            Creator: <a target='blank' href='https://myanimelist.net/people/13563/Tomiyaki_Kagisora'>Kagisora, Tomiyaki</a>
             <br>
-            Studio: <a href='https://myanimelist.net/anime/producer/1864/Ez%CF%8Cla'>Ezόla</a>
+            Studio: <a target='blank' href='https://myanimelist.net/anime/producer/1864/Ez%CF%8Cla'>Ezόla</a>
         </i>
         <br>
         <label class=darktext>
@@ -142,21 +142,21 @@ Please note that your favorite anime was expressly excluded from this list to pe
         <img src='/assets/img/shows/log_horizon.webp' class='thumbnail-big'>
     </td>
     <td class=pad_reviews>
-        <a href='https://myanimelist.net/anime/17265/Log_Horizon' class=darktext>Log Horizon (2013)</a>
+        <a target='blank' href='https://myanimelist.net/anime/17265/Log_Horizon' class=darktext>Log Horizon (2013)</a>
         <br>
         <i class=darktext>
-            Director: <a href='https://myanimelist.net/people/8743/Shinji_Ishihira'>Ishihira, Shinji</a>
+            Director: <a target='blank' href='https://myanimelist.net/people/8743/Shinji_Ishihira'>Ishihira, Shinji</a>
             <br>
-            Creator: <a href='https://myanimelist.net/people/13135/Mamare_Touno'>Touno, Mamare</a>
+            Creator: <a target='blank' href='https://myanimelist.net/people/13135/Mamare_Touno'>Touno, Mamare</a>
             <br>
-            Studio: <a href='https://myanimelist.net/anime/producer/41/Satelight'>Satelight</a>
+            Studio: <a target='blank' href='https://myanimelist.net/anime/producer/41/Satelight'>Satelight</a>
         </i>
         <br>
         <label class=darktext>
             Counteraction: risen.
         </label>
         <!-- <br> -->
-        It's really something when an isekai convincingly births an economy by introducing fastfood.  Instead of rehashing things, I'll just link this <a href="https://youtube.com/playlist?list=PLdOsb-MYEc0HUfrzXw2ZukWWYQD7x6ia8">great analysis series</a> by the golden witch.  Good academic content on good anime is hard to come by; highly recommend both the show and analysis. <!-- <br>* -->
+        It's really something when an isekai convincingly births an economy by introducing fastfood.  Instead of rehashing things, I'll just link this <a target='blank' href="https://youtube.com/playlist?list=PLdOsb-MYEc0HUfrzXw2ZukWWYQD7x6ia8">great analysis series</a> by the golden witch.  Good academic content on good anime is hard to come by; highly recommend both the show and analysis. <!-- <br>* -->
     </td>
 </tr>
 <tr>
@@ -164,14 +164,14 @@ Please note that your favorite anime was expressly excluded from this list to pe
         <img src='/assets/img/shows/hinamatsuri.webp' class='thumbnail-big'>
     </td>
     <td class=pad_reviews>
-        <a href='https://myanimelist.net/anime/36296/Hinamatsuri_TV' class=darktext>Hinamatsuri (2018)</a>
+        <a target='blank' href='https://myanimelist.net/anime/36296/Hinamatsuri_TV' class=darktext>Hinamatsuri (2018)</a>
         <br>
         <i class=darktext>
-            Director: <a href='https://myanimelist.net/people/10140/Kei_Oikawa'>Oikawa, Kei</a>
+            Director: <a target='blank' href='https://myanimelist.net/people/10140/Kei_Oikawa'>Oikawa, Kei</a>
             <br>
-            Creator: <a href='https://myanimelist.net/people/16607/Masao_Ohtake'>Ohtake, Masao</a>
+            Creator: <a target='blank' href='https://myanimelist.net/people/16607/Masao_Ohtake'>Ohtake, Masao</a>
             <br>
-            Studio: <a href='https://myanimelist.net/anime/producer/91/feel'>feel.</a>
+            Studio: <a target='blank' href='https://myanimelist.net/anime/producer/91/feel'>feel.</a>
         </i>
         <br>
         <label class=darktext>
@@ -186,14 +186,14 @@ Please note that your favorite anime was expressly excluded from this list to pe
         <img src='/assets/img/shows/psycho_pass.webp' class='thumbnail-big'>
     </td>
     <td class=pad_reviews>
-        <a href='https://myanimelist.net/anime/13601/Psycho-Pass' class=darktext>Psycho-Pass (2012)</a>
+        <a target='blank' href='https://myanimelist.net/anime/13601/Psycho-Pass' class=darktext>Psycho-Pass (2012)</a>
         <br>
         <i class=darktext>
-            Directors: <a href='https://myanimelist.net/people/19910/Katsuyuki_Motohiro'>Motohiro, Katsuyuki</a>; <a href='https://myanimelist.net/people/15235/Naoyoshi_Shiotani'>Shiotani, Naoyoshi</a>
+            Directors: <a target='blank' href='https://myanimelist.net/people/19910/Katsuyuki_Motohiro'>Motohiro, Katsuyuki</a>; <a target='blank' href='https://myanimelist.net/people/15235/Naoyoshi_Shiotani'>Shiotani, Naoyoshi</a>
             <br>
-            Written by: <a href='https://myanimelist.net/people/10308/Gen_Urobuchi'>Urobuchi, Gen</a>
+            Written by: <a target='blank' href='https://myanimelist.net/people/10308/Gen_Urobuchi'>Urobuchi, Gen</a>
             <br>
-            Studio: <a href='https://myanimelist.net/anime/producer/10/Production_IG'>Production I.G</a>
+            Studio: <a target='blank' href='https://myanimelist.net/anime/producer/10/Production_IG'>Production I.G</a>
         </i>
         <br>
         <label class=darktext>
@@ -208,14 +208,14 @@ Please note that your favorite anime was expressly excluded from this list to pe
         <img src='/assets/img/shows/ishuzoku_reviewers.webp' class='thumbnail-big'>
     </td>
     <td class=pad_reviews>
-        <a href='https://myanimelist.net/anime/40010/Ishuzoku_Reviewers' class=darktext>Ishuzoku Reviewers (2020)</a>
+        <a target='blank' href='https://myanimelist.net/anime/40010/Ishuzoku_Reviewers' class=darktext>Ishuzoku Reviewers (2020)</a>
         <br>
         <i class=darktext>
-            Director: <a href='https://myanimelist.net/people/39649/Yuuki_Ogawa'>Ogawa, Yuuki</a>
+            Director: <a target='blank' href='https://myanimelist.net/people/39649/Yuuki_Ogawa'>Ogawa, Yuuki</a>
             <br>
-            Creator: <a href='https://myanimelist.net/people/46675/Amahara'>Amahara</a>
+            Creator: <a target='blank' href='https://myanimelist.net/people/46675/Amahara'>Amahara</a>
             <br>
-            Studio: <a href='https://myanimelist.net/anime/producer/911/Passione'>Passione</a>
+            Studio: <a target='blank' href='https://myanimelist.net/anime/producer/911/Passione'>Passione</a>
         </i>
         <br>
         <label class=darktext>

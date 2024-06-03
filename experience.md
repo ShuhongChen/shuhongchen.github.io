@@ -19,6 +19,22 @@ title: experience
 <tbody>
 <tr>
     <td>
+        <img src='./assets/img/logo_dondon.png' class='thumbnail-small'>
+    </td>
+    <td class=pad_xp>
+        <label class=darktext>
+            Founder, Dondon Technologies Inc.
+        </label><br>
+        <i>
+            Website: <a target='blank' href='https://www.dondontech.com/'>dondontech.com</a>
+            <br>
+            2024 April – present
+        </i><br>
+        Our goal at Dondon is to assist traditional 2D animators working in the Japanese anime pipeline.  Many labor-intensive tasks like douga and shiage (CUIB/DIP) can be accelerated with the help of new vision/graphics techniques.
+    </td>
+</tr>
+<tr>
+    <td>
         <img src='./assets/img/logo_umd.jpg' class='thumbnail-small'>
     </td>
     <td class=pad_xp>
@@ -26,7 +42,7 @@ title: experience
             PhD Graduate Research Assistant, UMD CS
         </label><br>
         <i>
-            Advisor: <a href='https://www.cs.umd.edu/~zwicker/'>Prof. Matthias Zwicker</a>
+            Advisor: <a target='blank' href='https://www.cs.umd.edu/~zwicker/'>Prof. Matthias Zwicker</a>
             <br>
             2020 June – present
             <br>
@@ -45,16 +61,16 @@ title: experience
         </label><br>
         <i>
             Mentors:
-            <a href='https://sites.google.com/view/amitumd/home'>Amit Kumar</a>,
-            <a href='https://engineering.purdue.edu/people/xiaoyu.xiang.1'>Xiaoyu Xiang</a>,
-            <a href='https://sreyas-mohan.github.io'>Sreyas Mohan</a>,
-            <a href='https://www.linkedin.com/in/rakesh-r-3848538/'>Rakesh Ranjan</a>
+            <a target='blank' href='https://sites.google.com/view/amitumd/home'>Amit Kumar</a>,
+            <a target='blank' href='https://engineering.purdue.edu/people/xiaoyu.xiang.1'>Xiaoyu Xiang</a>,
+            <a target='blank' href='https://sreyas-mohan.github.io'>Sreyas Mohan</a>,
+            <a target='blank' href='https://www.linkedin.com/in/rakesh-r-3848538/'>Rakesh Ranjan</a>
             <br>
-            2023 August – 2023 December
+            2023 August – 2024 March
             <br>
             Menlo Park, California, USA
         </i><br>
-        Working on diffusion models applied to non-photorealistic 3D modeling topics.
+        Worked on diffusion models applied to non-photorealistic 3D modeling topics.
     </td>
 </tr>
 <tr>
@@ -67,9 +83,9 @@ title: experience
         </label><br>
         <i>
             Supervisors:
-            <a href='https://www.linkedin.com/in/akinoubu-maejima-36257930/?originalSubdomain=jp'>Maejima Akinobu</a>,
-            <a href='https://www.researchgate.net/profile/Marc-Salvati'>Marc Salvati</a>,
-            <a href='https://www.linkedin.com/in/tatsuo-yotsukura-9969551/?originalSubdomain=jp'>Tatsuo Yotsukura</a>
+            <a target='blank' href='https://www.linkedin.com/in/akinoubu-maejima-36257930/?originalSubdomain=jp'>Maejima Akinobu</a>,
+            <a target='blank' href='https://www.researchgate.net/profile/Marc-Salvati'>Marc Salvati</a>,
+            <a target='blank' href='https://www.linkedin.com/in/tatsuo-yotsukura-9969551/?originalSubdomain=jp'>Tatsuo Yotsukura</a>
             <br>
             2023 July
             <br>
@@ -88,13 +104,13 @@ title: experience
         </label><br>
         <i>
             Affiliate contact:
-            <a href='https://junkato.jp/'>Jun Kato</a>
+            <a target='blank' href='https://junkato.jp/'>Jun Kato</a>
             <br>
             2023 January
             <br>
             Yoyogi Shibuya, Tokyo, Japan (remote)
         </i><br>
-        Thanks to colleagues at <a href='https://research.archinc.jp/en/'>Arch Inc.</a> for setting me up as a visiting researcher, to help foster collaboration with anime industry professionals in Japan.  Please direct Arch-related inquiries to shuhong[a]archinc.jp.
+        Thanks to colleagues at <a target='blank' href='https://research.archinc.jp/en/'>Arch Inc.</a> for setting me up as a visiting researcher, to help foster collaboration with anime industry professionals in Japan.  Please direct Arch-related inquiries to shuhong[a]archinc.jp.
     </td>
 </tr>
 <tr>
@@ -107,10 +123,10 @@ title: experience
         </label><br>
         <i>
             Mentors:
-            <a href='https://www.linkedin.com/in/yihengz'>Yiheng Zhu</a>,
-            <a href='https://hengcv.github.io/'>Heng Wang</a>,
-            <a href='https://seasonsh.github.io/'>Yichun Shi</a>,
-            <a href='https://www.linkedin.com/in/xiao-yang-46464934/'>Xiao Yang</a>
+            <a target='blank' href='https://www.linkedin.com/in/yihengz'>Yiheng Zhu</a>,
+            <a target='blank' href='https://hengcv.github.io/'>Heng Wang</a>,
+            <a target='blank' href='https://seasonsh.github.io/'>Yichun Shi</a>,
+            <a target='blank' href='https://www.linkedin.com/in/xiao-yang-46464934/'>Xiao Yang</a>
             <br>
             2022 May – 2022 November
             <br>
@@ -128,7 +144,7 @@ title: experience
             Summer Intern, MIT Lincoln Laboratory
         </label><br>
         <i>
-            Advisor: <a href='https://www.linkedin.com/in/mikeschan/'>Dr. Michael Chan</a>
+            Advisor: <a target='blank' href='https://www.linkedin.com/in/mikeschan/'>Dr. Michael Chan</a>
             <br>
             2018 June – 2018 August
             <br>
@@ -146,7 +162,7 @@ title: experience
             Undergrad Research Assistant, Rutgers ECE
         </label><br>
         <i>
-            Advisor: <a href='https://www.ece.rutgers.edu/~marsic/'>Prof. Ivan Marsic</a>
+            Advisor: <a target='blank' href='https://www.ece.rutgers.edu/~marsic/'>Prof. Ivan Marsic</a>
             <br>
             2015 October – 2019 May
             <br>
@@ -162,7 +178,7 @@ title: experience
 
 # education
 
-Special thanks to [Prof. Matthew Stone](https://people.cs.rutgers.edu/~mdstone/), [Prof. Iian Smythe](https://sites.google.com/site/iiansmythe/), and [Prof. Qiang Xu](https://www.linkedin.com/in/qiang-xu-3316b5193/) for their invaluable guidance and mentorship.
+Special thanks to [Prof. Matthew Stone](https://people.cs.rutgers.edu/~mdstone/){:target="_blank"}, [Prof. Iian Smythe](https://sites.google.com/site/iiansmythe/){:target="_blank"}, and [Prof. Qiang Xu](https://www.linkedin.com/in/qiang-xu-3316b5193/){:target="_blank"} for their invaluable guidance and mentorship.
 
 <style>
 .pad_edu {
@@ -185,7 +201,7 @@ Special thanks to [Prof. Matthew Stone](https://people.cs.rutgers.edu/~mdstone/)
             PhD in CS<br>
         </i>
         Class of 2024 (expected)<br>
-        Advisor: <a href='https://www.cs.umd.edu/~zwicker/'>Prof. Matthias Zwicker</a>
+        Advisor: <a target='blank' href='https://www.cs.umd.edu/~zwicker/'>Prof. Matthias Zwicker</a>
     </td>
 </tr>
 <tr>
@@ -207,11 +223,6 @@ Special thanks to [Prof. Matthew Stone](https://people.cs.rutgers.edu/~mdstone/)
 </table>
 
 
-# invited talks
-
-- 2023 July, University of Tokyo, Takeo Igarashi Lab, "ML for Anime: Illustration, Animation, and 3D Models"
-- 2023 March, Chimera Entertainment, "What are Generative Image Models?"
-
 
 # teaching + mentorship
 
@@ -232,17 +243,25 @@ F2019 TA CMSC132: OOP II, Prof. Nelson Pauda-Perez and Pedram Sadeghian, UMD
 2013-2016 TA Chinese Second Language, Huaxia Morris Chinese Academy  
 
 
+# invited talks
+
+- 2023 July, University of Tokyo, Takeo Igarashi Lab, "ML for Anime: Illustration, Animation, and 3D Models"
+- 2023 March, Chimera Entertainment, "What are Generative Image Models?"
+
+
 # awards
+
+- 2024 Pitch Dingman Semi-finalist, UMD Smith School of Business
+- 2023 Startup Fellow, UMD Startup Shell
 
 - 2021 Honorable Mention, NSF GRFP (graduate)
 - 2019 Honorable Mention, NSF GRFP (undergrad)
 - 2019 Dean’s Fellowship, UMD Graduate School of CS
-- 2018 Alan Marc Schreiber Memorial Scholarship, Rutgers SAS Excellence Award in Math
-- 2015 Rutgers Trustee Scholarship, Rutgers University
-
 - 2019 Startup Allocation Proposal, XSEDE PSC Bridges
+- 2018 Alan Marc Schreiber Memorial Scholarship, Rutgers SAS Excellence Award in Math
 - 2017 Grant for Conference Funding, Aresty Research Center
 - 2017 Grant for Conference Funding, Rutgers ECE
+- 2015 Rutgers Trustee Scholarship, Rutgers University
 
 - 2018 Top 6 Shark-Tank Finalist, MIT Intern Innovative Idea Challenge
 - 2017 Best Healthcare Hack, HackRU F2017
