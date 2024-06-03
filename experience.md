@@ -44,7 +44,7 @@ title: experience
         <i>
             Advisor: <a target='blank' href='https://www.cs.umd.edu/~zwicker/'>Prof. Matthias Zwicker</a>
             <br>
-            2020 June – present
+            2020 June – 2024 June
             <br>
             College Park, Maryland, USA
         </i><br>
